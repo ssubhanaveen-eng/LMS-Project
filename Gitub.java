@@ -8,6 +8,9 @@ public class Gitub {
 		//cd - change the current directory (cd src)
 		//cat - display file content
 		//git clone - copies a repository from a remote source
+		//git push - upload commit to remote repository
+		//git pull - merges updates from a remote repository
+
 	}
 
 }
