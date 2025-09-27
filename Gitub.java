@@ -11,6 +11,9 @@ public class Gitub {
 		//git push - upload commit to remote repository
 		//git pull - merges updates from a remote repository
 
+		System.out.println("Naveen");
+		System.out.println("Priya");
+
 	}
 
 }
